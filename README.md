@@ -207,7 +207,6 @@ But basic features (like animated emojis) should work.
 I removed the code because this shouldn't go public. People would just copy and paste this anywhere and bad people would backdoor it.
 Also I don't want Discord to fix this.
 
-This script was replaced by Discord Oxygen (https://github.com/hxr404/Discord-Oxygen).
 */
 ```
 </details>
@@ -371,7 +370,7 @@ __SECRET_EMOTION__.injectGlobal(`
 <details>
   <summary>Click here</summary>
   
-  Now in a seperate repo: https://github.com/hxr404/discord-oxygen
+ 
   
 The Framework is a new project, wich combines every console hack into a single script.<br>
 Simply include the source code (.js file) into your Discord client (Desktop or Web).<br>
